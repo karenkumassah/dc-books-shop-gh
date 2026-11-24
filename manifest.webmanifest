@@ -1,0 +1,29 @@
+{
+  "name": "DC Books and Stationery",
+  "short_name": "DC Books",
+  "description": "Books, stationery, school supplies and phone accessories in Accra.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07162f",
+  "theme_color": "#07162f",
+  "icons": [
+    {
+      "src": "icons/dc-books-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/dc-books-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/dc-books-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
